@@ -1,4 +1,3 @@
-### -
 ### 机器学习大作业代码+数据
 ### 0. 所需依赖包括os、re、collections、pkuseg、transformers、torch、numpy、pandas、tqdm；python版本为3.11
 ### 1. 主程序：main.ipynb
